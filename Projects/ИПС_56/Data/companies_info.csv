@@ -1,0 +1,214 @@
+,ISIN,Security Name,Percent of Fund,Trade Country Name,Sector Classification,Industry Classification,ticker
+0,US0378331005,Apple Inc.,9.229723,United States,Information Technology,Technology Hardware Storage & Peripherals,AAPL
+1,US5949181045,Microsoft Corporation,2.592074,United States,Information Technology,Software,MSFT
+2,US88160R1014,Tesla,4.0,United States,Consumer Discretionary,Automobiles,TSLA
+3,US0231351067,Amazon.com Inc.,2.013189,United States,Consumer Discretionary,Internet & Direct Marketing Retail,AMZN
+4,US67066G1040,NVIDIA Corporation,2.932872,United States,Information Technology,Semiconductors & Semiconductor Equipment,NVDA
+5,US02079K3059,Alphabet Inc. Class A,2.803867,United States,Communication Services,Interactive Media & Services,GOOGL
+6,US02079K1079,Alphabet Inc. Class C,2.597737,United States,Communication Services,Interactive Media & Services,GOOG
+7,US91324P1021,UnitedHealth Group Incorporated,2.38537,United States,Health Care,Health Care Providers & Services,UNH
+8,US46625H1005,JPMorgan Chase & Co.,2.11993,United States,Financials,Banks,JPM
+9,US30231G1022,Exxon Mobil Corporation,2.084553,United States,Energy,Oil Gas & Consumable Fuels,XOM
+10,US92826C8394,Visa Inc. Class A,1.875331,United States,Information Technology,It Services,V
+11,US7427181091,Procter & Gamble Company,1.768381,United States,Consumer Staples,Household Products,PG
+12,US00287Y1091,AbbVie Inc.,1.513795,United States,Health Care,Biotechnology,ABBV
+13,US0605051046,Bank of America Corp,1.443432,United States,Financials,Banks,BAC
+14,US5324571083,Eli Lilly and Company,1.299163,United States,Health Care,Pharmaceuticals,LLY
+15,US1912161007,Coca-Cola Company,1.274721,United States,Consumer Staples,Beverages,KO
+16,US58933Y1055,Merck & Co. Inc.,1.222283,United States,Health Care,Pharmaceuticals,MRK
+17,US7134481081,PepsiCo Inc.,1.213248,United States,Consumer Staples,Beverages,PEP
+18,US2546871060,Walt Disney Company,1.126288,United States,Communication Services,Entertainment,DIS
+19,US00724F1012,Adobe Inc.,1.101804,United States,Information Technology,Software,ADBE
+20,US92343V1044,Verizon Communications Inc.,1.094476,United States,Communication Services,Diversified Telecommunication Services,VZ
+21,US17275R1023,Cisco Systems Inc.,1.064588,United States,Information Technology,Communications Equipment,CSCO
+22,US20030N1019,Comcast Corporation Class A,1.061908,United States,Communication Services,Media,CMCSA
+23,US0028241000,Abbott Laboratories,1.050099,United States,Health Care,Health Care Equipment & Supplies,ABT
+24,US00206R1023,AT&T Inc.,1.002847,United States,Communication Services,Diversified Telecommunication Services,T
+25,US79466L3024,Salesforce Inc.,0.976313,United States,Information Technology,Software,CRM
+26,US4581401001,Intel Corporation,0.963374,United States,Information Technology,Semiconductors & Semiconductor Equipment,INTC
+27,US5801351017,McDonald's Corporation,0.957571,United States,Consumer Discretionary,Hotels Restaurants & Leisure,MCD
+28,US9311421039,Walmart Inc.,0.887907,United States,Consumer Staples,Food & Staples Retailing,WMT
+29,US8825081040,Texas Instruments Incorporated,0.87718,United States,Information Technology,Semiconductors & Semiconductor Equipment,TXN
+30,IE00BZ12WP82,Linde plc,0.861947,United States,Materials,Chemicals,LIN
+31,US9078181081,Union Pacific Corporation,0.835104,United States,Industrials,Road & Rail,UNP
+32,US9113121068,United Parcel Service Inc. Class B,0.778867,United States,Industrials,Air Freight & Logistics,UPS
+33,US6541061031,NIKE Inc. Class B,0.746918,United States,Consumer Discretionary,Textiles Apparel & Luxury Goods,NKE
+34,US0311621009,Amgen Inc.,0.736106,United States,Health Care,Biotechnology,AMGN
+35,US78409V1044,S&P Global Inc.,0.69665,United States,Financials,Capital Markets,SPGI
+36,US5486611073,Lowe's Companies Inc.,0.67179,United States,Consumer Discretionary,Specialty Retail,LOW
+37,US1266501006,CVS Health Corporation,0.656759,United States,Health Care,Health Care Providers & Services,CVS
+38,US68389X1054,Oracle Corporation,0.617253,United States,Information Technology,Software,ORCL
+39,US0367521038,Anthem Inc.,0.617065,United States,Health Care,Health Care Providers & Services,ANTM
+40,US6174464486,Morgan Stanley,0.612483,United States,Financials,Capital Markets,MS
+41,US1491231015,Caterpillar Inc.,0.584659,United States,Industrials,Machinery,CAT
+42,US1729674242,Citigroup Inc.,0.571195,United States,Financials,Banks,C
+43,US38141G1040,Goldman Sachs Group Inc.,0.562771,United States,Financials,Capital Markets,GS
+44,US09247X1019,BlackRock Inc.,0.534604,United States,Financials,Capital Markets,BLK
+45,US0258161092,American Express Company,0.533548,United States,Financials,Consumer Finance,AXP
+46,US8552441094,Starbucks Corporation,0.514398,United States,Consumer Discretionary,Hotels Restaurants & Leisure,SBUX
+47,US2441991054,Deere & Company,0.497284,United States,Industrials,Machinery,DE
+48,US74340W1036,Prologis Inc.,0.453975,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),PLD
+49,US6092071058,Mondelez International Inc. Class A,0.450848,United States,Consumer Staples,Food Products,MDLZ
+50,US98978V1035,Zoetis Inc. Class A,0.421046,United States,Health Care,Pharmaceuticals,ZTS
+51,US1255231003,Cigna Corporation,0.414721,United States,Health Care,Health Care Providers & Services,CI
+52,US5128071082,Lam Research Corporation,0.414298,United States,Information Technology,Semiconductors & Semiconductor Equipment,LRCX
+53,US3755581036,Gilead Sciences Inc.,0.413192,United States,Health Care,Biotechnology,GILD
+54,US1264081035,CSX Corporation,0.398758,United States,Industrials,Road & Rail,CSX
+55,US75886F1075,Regeneron Pharmaceuticals Inc.,0.389759,United States,Health Care,Biotechnology,REGN
+56,US9029733048,U.S. Bancorp,0.376699,United States,Financials,Banks,USB
+57,US8725401090,TJX Companies Inc,0.359758,United States,Consumer Discretionary,Specialty Retail,TJX
+58,US87612E1064,Target Corporation,0.346616,United States,Consumer Discretionary,Multiline Retail,TGT
+59,US92532F1003,Vertex Pharmaceuticals Incorporated,0.343241,United States,Health Care,Biotechnology,VRTX
+60,AN8068571086,Schlumberger NV,0.332052,United States,Energy,Energy Equipment & Services,SLB
+61,US1941621039,Colgate-Palmolive Company,0.328678,United States,Consumer Staples,Household Products,CL
+62,US29444U7000,Equinix Inc.,0.325185,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),EQIX
+63,US94106L1098,Waste Management Inc.,0.323418,United States,Industrials,Commercial Services & Supplies,WM
+64,US4523081093,Illinois Tool Works Inc.,0.321746,United States,Industrials,Machinery,ITW
+65,US35671D8570,Freeport-McMoRan Inc.,0.302249,United States,Materials,Metals & Mining,FCX
+66,US28176E1082,Edwards Lifesciences Corporation,0.301856,United States,Health Care,Health Care Equipment & Supplies,EW
+67,US37045V1008,General Motors Company,0.297749,United States,Consumer Discretionary,Automobiles,GM
+68,IE00B8KQN827,Eaton Corp. Plc,0.294926,United States,Industrials,Electrical Equipment,ETN
+69,US56585A1025,Marathon Petroleum Corporation,0.293693,United States,Energy,Oil Gas & Consumable Fuels,MPC
+70,US6516391066,Newmont Corporation,0.290461,United States,Materials,Metals & Mining,NEM
+71,US5184391044,Estee Lauder Companies Inc. Class A,0.289353,United States,Consumer Staples,Personal Products,EL
+72,US60770K1079,Moderna Inc.,0.287774,United States,Health Care,Biotechnology,MRNA
+73,US3453708600,Ford Motor Company,0.28662,United States,Consumer Discretionary,Automobiles,F
+74,US0091581068,Air Products and Chemicals Inc.,0.285719,United States,Materials,Chemicals,APD
+75,US8168511090,Sempra Energy,0.282198,United States,Utilities,Multi-Utilities,SRE
+76,US2910111044,Emerson Electric Co.,0.273461,United States,Industrials,Electrical Equipment,EMR
+77,US91913Y1001,Valero Energy Corporation,0.265546,United States,Energy,Oil Gas & Consumable Fuels,VLO
+78,US6153691059,Moody's Corporation,0.262117,United States,Financials,Capital Markets,MCO
+79,US2605571031,Dow Inc.,0.25332,United States,Materials,Chemicals,DOW
+80,US0268747849,American International Group Inc.,0.249576,United States,Financials,Insurance,AIG
+81,US0394831020,Archer-Daniels-Midland Company,0.248723,United States,Consumer Staples,Food Products,ADM
+82,US7766961061,Roper Technologies Inc.,0.248602,United States,Information Technology,Software,ROP
+83,US14040H1059,Capital One Financial Corp,0.246801,United States,Financials,Consumer Finance,COF
+84,US7185461040,Phillips 66,0.243419,United States,Energy,Oil Gas & Consumable Fuels,PSX
+85,US59156R1086,MetLife Inc.,0.242069,United States,Financials,Insurance,MET
+86,US0527691069,Autodesk Inc.,0.236291,United States,Information Technology,Software,ADSK
+87,US89417E1091,Travelers Companies Inc.,0.235637,United States,Financials,Insurance,TRV
+88,US9694571004,Williams Companies Inc.,0.225568,United States,Energy,Oil Gas & Consumable Fuels,WMB
+89,CH0102993182,TE Connectivity Ltd.,0.225368,United States,Information Technology,Electronic Equipment Instruments & Components,TEL
+90,US2855121099,Electronic Arts Inc.,0.213866,United States,Communication Services,Entertainment,EA
+91,US3703341046,General Mills Inc.,0.210131,United States,Consumer Staples,Food Products,GIS
+92,US95040Q1040,Welltower Inc,0.207762,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),WELL
+93,US2788651006,Ecolab Inc.,0.207582,United States,Materials,Chemicals,ECL
+94,US4523271090,Illumina Inc.,0.207478,United States,Health Care,Life Sciences Tools & Services,ILMN
+95,US7443201022,Prudential Financial Inc.,0.20473,United States,Financials,Insurance,PRU
+96,US6200763075,Motorola Solutions Inc.,0.202824,United States,Information Technology,Communications Equipment,MSI
+97,US0718131099,Baxter International Inc.,0.200192,United States,Health Care,Health Care Equipment & Supplies,BAX
+98,IE00BY7QL619,Johnson Controls International plc,0.199198,United States,Industrials,Building Products,JCI
+99,US00846U1016,Agilent Technologies Inc.,0.198621,United States,Health Care,Life Sciences Tools & Services,A
+100,US2538681030,Digital Realty Trust Inc.,0.196313,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),DLR
+101,US49456B1017,Kinder Morgan Inc Class P,0.195745,United States,Energy,Oil Gas & Consumable Fuels,KMI
+102,US40434L1052,HP Inc.,0.193227,United States,Information Technology,Technology Hardware Storage & Peripherals,HPQ
+103,US0200021014,Allstate Corporation,0.191068,United States,Financials,Insurance,ALL
+104,US0640581007,Bank of New York Mellon Corp,0.189707,United States,Financials,Capital Markets,BK
+105,US14448C1045,Carrier Global Corp.,0.187419,United States,Industrials,Building Products,CARR
+106,US55354G1004,MSCI Inc. Class A,0.187041,United States,Financials,Capital Markets,MSCI
+107,US4595061015,International Flavors & Fragrances Inc.,0.186522,United States,Materials,Chemicals,IFF
+108,US5010441013,Kroger Co.,0.184481,United States,Consumer Staples,Food & Staples Retailing,KR
+109,US43300A2033,Hilton Worldwide Holdings Inc,0.184137,United States,Consumer Discretionary,Hotels Restaurants & Leisure,HLT
+110,US2091151041,Consolidated Edison Inc.,0.18377,United States,Utilities,Multi-Utilities,ED
+111,US0010551028,Aflac Incorporated,0.183218,United States,Financials,Insurance,AFL
+112,US4062161017,Halliburton Company,0.181237,United States,Energy,Energy Equipment & Services,HAL
+113,US05722G1004,Baker Hughes Company Class A,0.180695,United States,Energy,Energy Equipment & Services,BKR
+114,US7010941042,Parker-Hannifin Corporation,0.17886,United States,Industrials,Machinery,PH
+115,US68902V1070,Otis Worldwide Corporation,0.174062,United States,Industrials,Machinery,OTIS
+116,US9884981013,Yum! Brands Inc.,0.171917,United States,Consumer Discretionary,Hotels Restaurants & Leisure,YUM
+117,US3119001044,Fastenal Company,0.167784,United States,Industrials,Trading Companies & Distributors,FAST
+118,IE00BK9ZQ967,Trane Technologies plc,0.166162,United States,Industrials,Building Products,TT
+119,US74144T1088,T. Rowe Price Group,0.162671,United States,Financials,Capital Markets,TROW
+120,US30040W1080,Eversource Energy,0.160111,United States,Utilities,Electric Utilities,ES
+121,US4278661081,Hershey Company,0.159321,United States,Consumer Staples,Food Products,HSY
+122,US6937181088,PACCAR Inc,0.158487,United States,Industrials,Machinery,PCAR
+123,US8574771031,State Street Corporation,0.158045,United States,Financials,Capital Markets,STT
+124,US2786421030,eBay Inc.,0.157898,United States,Consumer Discretionary,Internet & Direct Marketing Retail,EBAY
+125,US2310211063,Cummins Inc.,0.157359,United States,Industrials,Machinery,CMI
+126,US9314271084,Walgreens Boots Alliance Inc,0.157263,United States,Consumer Staples,Food & Staples Retailing,WBA
+127,US5926881054,Mettler-Toledo International Inc.,0.15658,United States,Health Care,Life Sciences Tools & Services,MTD
+128,US09062X1037,Biogen Inc.,0.153117,United States,Health Care,Biotechnology,BIIB
+129,US12504L1098,CBRE Group Inc. Class A,0.151748,United States,Real Estate,Real Estate Management & Development,CBRE
+130,US6826801036,ONEOK Inc.,0.151111,United States,Energy,Oil Gas & Consumable Fuels,OKE
+131,US0534841012,AvalonBay Communities Inc.,0.150527,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),AVB
+132,US7607591002,Republic Services Inc.,0.148716,United States,Industrials,Commercial Services & Supplies,RSG
+133,US92345Y1064,Verisk Analytics Inc,0.148032,United States,Industrials,Professional Services,VRSK
+134,JE00B783TY65,Aptiv PLC,0.147831,United States,Consumer Discretionary,Auto Components,APTV
+135,US49338L1035,Keysight Technologies Inc,0.146953,United States,Information Technology,Electronic Equipment Instruments & Components,KEYS
+136,US2193501051,Corning Inc,0.145558,United States,Information Technology,Electronic Equipment Instruments & Components,GLW
+137,US3167731005,Fifth Third Bancorp,0.1443,United States,Financials,Banks,FITB
+138,US0304201033,American Water Works Company Inc.,0.142651,United States,Utilities,Water Utilities,AWK
+139,US9621661043,Weyerhaeuser Company,0.140951,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),WY
+140,US5007541064,Kraft Heinz Company,0.138057,United States,Consumer Staples,Food Products,KHC
+141,US0404131064,Arista Networks Inc.,0.136035,United States,Information Technology,Communications Equipment,ANET
+142,US2810201077,Edison International,0.135009,United States,Utilities,Electric Utilities,EIX
+143,IE00BDB6Q211,Willis Towers Watson Public Limited Company,0.133065,United States,Financials,Insurance,WTW
+144,US7739031091,Rockwell Automation Inc.,0.127866,United States,Industrials,Electrical Equipment,ROK
+145,US92276F1003,Ventas Inc.,0.125508,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),VTR
+146,US0584981064,Ball Corporation,0.125502,United States,Materials,Containers & Packaging,BALL
+147,US6658591044,Northern Trust Corporation,0.125103,United States,Financials,Capital Markets,NTRS
+148,US4165151048,Hartford Financial Services Group Inc.,0.122337,United States,Financials,Insurance,HIG
+149,US5797802064,McCormick & Company Incorporated,0.121066,United States,Consumer Staples,Food Products,MKC
+150,US12514G1085,CDW Corp.,0.120659,United States,Information Technology,Electronic Equipment Instruments & Components,CDW
+151,US30225T1025,Extra Space Storage Inc.,0.119303,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),EXR
+152,US8740541094,Take-Two Interactive Software Inc.,0.118378,United States,Communication Services,Entertainment,TTWO
+153,US34959J1088,Fortive Corp.,0.116502,United States,Industrials,Machinery,FTV
+154,US9113631090,United Rentals Inc.,0.110387,United States,Industrials,Trading Companies & Distributors,URI
+155,US7591EP1005,Regions Financial Corporation,0.106797,United States,Financials,Banks,RF
+156,US42824C1099,Hewlett Packard Enterprise Co.,0.106094,United States,Information Technology,Technology Hardware Storage & Peripherals,HPE
+157,US30212P3038,Expedia Group Inc.,0.10468,United States,Consumer Discretionary,Hotels Restaurants & Leisure,EXPE
+158,US45687V1061,Ingersoll Rand Inc.,0.103524,United States,Industrials,Machinery,IR
+159,IE00BKVD2N49,Seagate Technology Holdings PLC,0.102879,United States,Information Technology,Technology Hardware Storage & Peripherals,STX
+160,US2600031080,Dover Corporation,0.102747,United States,Industrials,Machinery,DOV
+161,US8545021011,Stanley Black & Decker Inc.,0.101579,United States,Industrials,Machinery,SWK
+162,US9418481035,Waters Corporation,0.099342,United States,Health Care,Life Sciences Tools & Services,WAT
+163,US9892071054,Zebra Technologies Corporation Class A,0.099188,United States,Information Technology,Electronic Equipment Instruments & Components,ZBRA
+164,US1720621010,Cincinnati Financial Corporation,0.097919,United States,Financials,Insurance,CINF
+165,US6311031081,Nasdaq Inc.,0.097747,United States,Financials,Capital Markets,NDAQ
+166,US4932671088,KeyCorp,0.096239,United States,Financials,Banks,KEY
+167,US8962391004,Trimble Inc.,0.093026,United States,Information Technology,Electronic Equipment Instruments & Components,TRMB
+168,US9297401088,Westinghouse Air Brake Technologies Corporation,0.092468,United States,Industrials,Machinery,WAB
+169,US7547301090,Raymond James Financial Inc.,0.092443,United States,Financials,Capital Markets,RJF
+170,US3687361044,Generac Holdings Inc.,0.091225,United States,Industrials,Electrical Equipment,GNRC
+171,US74251V1026,Principal Financial Group Inc.,0.09041,United States,Financials,Insurance,PFG
+172,US0865161014,Best Buy Co. Inc.,0.089789,United States,Consumer Discretionary,Specialty Retail,BBY
+173,US4878361082,Kellogg Company,0.088543,United States,Consumer Staples,Food Products,K
+174,US4456581077,J.B. Hunt Transport Services Inc.,0.088262,United States,Industrials,Road & Rail,JBHT
+175,US1011211018,Boston Properties Inc.,0.083656,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),BXP
+176,US42250P1030,Healthpeak Properties Inc.,0.083569,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),PEAK
+177,US2371941053,Darden Restaurants Inc.,0.080505,United States,Consumer Discretionary,Hotels Restaurants & Leisure,DRI
+178,US87165B1035,Synchrony Financial,0.080375,United States,Financials,Consumer Finance,SYF
+179,US46284V1017,Iron Mountain Inc.,0.078248,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),IRM
+180,US98419M1009,Xylem Inc.,0.078083,United States,Industrials,Machinery,XYL
+181,US3030751057,FactSet Research Systems Inc.,0.077053,United States,Financials,Capital Markets,FDS
+182,US0844231029,W. R. Berkley Corporation,0.076069,United States,Financials,Insurance,WRB
+183,US6687711084,NortonLifeLock Inc.,0.07602,United States,Information Technology,Software,NLOK
+184,US45167R1041,IDEX Corporation,0.075799,United States,Industrials,Machinery,IEX
+185,US49446R1095,Kimco Realty Corporation,0.071352,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),KIM
+186,US44107P1049,Host Hotels & Resorts Inc.,0.071246,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),HST
+187,US57060D1081,MarketAxess Holdings Inc.,0.070913,United States,Financials,Capital Markets,MKTX
+188,US4606901001,Interpublic Group of Companies Inc.,0.062634,United States,Communication Services,Media,IPG
+189,US6556631025,Nordson Corporation,0.062098,United States,Industrials,Machinery,NDSN
+190,US12503M1080,Cboe Global Markets Inc,0.060632,United States,Financials,Capital Markets,CBOE
+191,LR0008862868,Royal Caribbean Group,0.060396,United States,Consumer Discretionary,Hotels Restaurants & Leisure,RCL
+192,US96145D1054,WestRock Company,0.05909,United States,Materials,Containers & Packaging,WRK
+193,US2003401070,Comerica Incorporated,0.056939,United States,Financials,Banks,CMA
+194,US29786A1060,Etsy Inc.,0.056477,United States,Consumer Discretionary,Internet & Direct Marketing Retail,ETSY
+195,US48203R1041,Juniper Networks Inc.,0.055149,United States,Information Technology,Communications Equipment,JNPR
+196,US8330341012,Snap-on Incorporated,0.054438,United States,Industrials,Machinery,SNA
+197,US9633201069,Whirlpool Corporation,0.053917,United States,Consumer Discretionary,Household Durables,WHR
+198,US4180561072,Hasbro Inc.,0.05359,United States,Consumer Discretionary,Leisure Products,HAS
+199,US7588491032,Regency Centers Corporation,0.053066,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),REG
+200,US7703231032,Robert Half International Inc.,0.052138,United States,Industrials,Professional Services,RHI
+201,GB00BWFY5505,Nielsen Holdings Plc,0.049486,United States,Industrials,Professional Services,NLSN
+202,US0997241064,BorgWarner Inc.,0.049309,United States,Consumer Discretionary,Auto Components,BWA
+203,US1344291091,Campbell Soup Company,0.048081,United States,Consumer Staples,Food Products,CPB
+204,US5341871094,Lincoln National Corporation,0.045605,United States,Financials,Insurance,LNC
+205,US37959E1029,Globe Life Inc.,0.044261,United States,Financials,Insurance,GL
+206,IE00BLS09M33,Pentair plc,0.043793,United States,Industrials,Machinery,PNR
+207,US3137451015,Federal Realty Investment Trust,0.04034,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),FRT
+208,BMG491BT1088,Invesco Ltd.,0.035094,United States,Financials,Capital Markets,IVZ
+209,US9290421091,Vornado Realty Trust,0.029913,United States,Real Estate,Equity Real Estate Investment Trusts (Reits),VNO
+210,US23918K1088,DaVita Inc.,0.027492,United States,Health Care,Health Care Providers & Services,DVA
+211,US6936561009,PVH Corp.,0.022968,United States,Consumer Discretionary,Textiles Apparel & Luxury Goods,PVH
+212,US44980X1090,IPG Photonics Corporation,0.019036,United States,Information Technology,Electronic Equipment Instruments & Components,IPGP
